@@ -1,5 +1,5 @@
 <p align="center">
-    <img alt="snarkOS" width="1412" src="https://cdn.aleo.org/snarkos/banner.png">
+    <img alt="snarkOS" width="1412" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjE2IiBoZWlnaHQ9IjgwIiB2aWV3Qm94PSIwIDAgMjE2IDgwIiBmaWxsPSJub25lIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgo8cGF0aCBkPSJNNzMuNDI2IDBWOC45MzgyNEg4MS42ODQyVjc4Ljg5NjFIOTAuNjA0NVYwSDczLjQyNloiIGZpbGw9IiNGNUY1RjUiLz4KPHBhdGggZD0iTTE1NC4xNDUgNTEuNDIxNkMxNTQuMTQ1IDMyLjU1MTggMTQzLjY4MyAyMS4yOTcgMTI3LjYwNCAyMS4yOTdDMTExLjUyNiAyMS4yOTcgMTAwLjk1NCAzMi4wMDA3IDEwMC45NTQgNTAuODY4N0MxMDAuOTU0IDY5LjczNjcgMTExLjQxNSA4MCAxMjcuNjA0IDgwQzE0MC4zNzggODAgMTQ5Ljk2IDcyLjYwNjEgMTUyLjYwMyA2Mi4zNDQ3SDE0Mi42OTJDMTQwLjQ4OCA2Ny4wOTAyIDEzNS45NzUgNzEuMjgyOSAxMjcuNjA0IDcxLjI4MjlDMTE2LjgxMiA3MS4yODI5IDExMS4zMDcgNjQuNDQxOSAxMTAuMjA1IDU0LjYyMDlIMTU0LjE0NVY1MS40MjE2Wk0xMTAuMzE2IDQ2LjEyNUMxMTEuNjM2IDM2LjYzNTcgMTE3LjM2NCAyOS45MDM1IDEyNy42MDQgMjkuOTAzNUMxMzcuODQ1IDI5LjkwMzUgMTQzLjI0MiAzNi41MjUxIDE0NC41NjQgNDYuMTI1SDExMC4zMTZaIiBmaWxsPSIjRjVGNUY1Ii8+CjxwYXRoIGQ9Ik0xODkuMjcyIDIxLjI5N0MxNzMuMDgzIDIxLjI5NyAxNjIuNjIyIDMyLjAwMDcgMTYyLjYyMiA1MC44Njg3QzE2Mi42MjIgNjkuNzM2NyAxNzMuMDgzIDgwIDE4OS4yNzIgODBDMjA1LjQ2MSA4MCAyMTUuODEyIDcwLjA2ODQgMjE1LjgxMiA1MC44Njg3QzIxNS44MTIgMzEuNjY5IDIwNS4zNTEgMjEuMjk3IDE4OS4yNzIgMjEuMjk3Wk0xODkuMjcyIDcxLjUwNDFDMTc3LjcwOSA3MS41MDQxIDE3MS40MzIgNjIuNDU1MyAxNzEuNDMyIDUwLjc2QzE3MS40MzIgMzkuMDY0NyAxNzcuNzA5IDI5LjY4NDIgMTg5LjI3MiAyOS42ODQyQzIwMC44MzYgMjkuNjg0MiAyMDcuMDAzIDM4Ljg0MzYgMjA3LjAwMyA1MC43NkMyMDcuMDAzIDYyLjY3NjQgMjAwLjk0NiA3MS41MDQxIDE4OS4yNzIgNzEuNTA0MVoiIGZpbGw9IiNGNUY1RjUiLz4KPHBhdGggZD0iTTQ2LjU1NjUgMEgyOC4zODQ5TDEyLjYxMzQgNDYuMTI1SDIyLjIxNzlMMzQuOTkzMyA4LjQ5NTkzSDM5LjYxODlMNTIuMzkyNSA0Ni4xMjVIMjIuMjE3OUwxOS4yNDU3IDU0LjYyMDlINTUuMjU2MUw2My41MTQzIDc4Ljg5NjFINzMuNDI2TDQ2LjU1NjUgMFoiIGZpbGw9IiNGNUY1RjUiLz4KPHBhdGggZD0iTTEuNDA1MDggNzguODk2MUgxMC45ODU3TDE5LjI0NTcgNTQuNjIwOUw5LjcwNzQgNTQuNjIwOUwxLjQwNTA4IDc4Ljg5NjFaIiBmaWxsPSIjRjVGNUY1Ii8+CjxwYXRoIGQ9Ik0zLjA5MzUgNDYuMTI1TDAuMTg3NSA1NC42MjA5SDkuNzA3NEwxMi42MTM0IDQ2LjEyNUgzLjA5MzVaIiBmaWxsPSIjRjVGNUY1Ii8+Cjwvc3ZnPgo=">
 </p>
 
 <p align="center">
@@ -10,237 +10,235 @@
     <a href="https://GitHub.com/AleoHQ/snarkOS"><img src="https://img.shields.io/badge/contributors-59-ee8449"/></a>
 </p>
 
-## <a name='TableofContents'></a>Table of Contents
+## <a name='TableofContents'></a>目录
 
-* [1. Overview](#1-overview)
-* [2. Build Guide](#2-build-guide)
-  * [2.1 Requirements](#21-requirements)
-  * [2.2 Installation](#22-installation)
-* [3. Run an Aleo Node](#3-run-an-aleo-node)
-  * [3.1 Run an Aleo Client](#31-run-an-aleo-client)
-  * [3.2 Run an Aleo Prover](#32-run-an-aleo-prover)
-* [4. FAQs](#4-faqs)
-* [5. Command Line Interface](#5-command-line-interface)
-* [6. Development Guide](#6-development-guide)
-  * [6.1 Quick Start](#61-quick-start)
-  * [6.2 Operations](#62-operations)
-* [7. Contributors](#7-contributors)
-* [8. License](#8-license)
+* [1. 概述](#1-overview)
+* [2. 构建指南](#2-build-guide)
+  * [2.1 要求](#21-requirements)
+  * [2.2 安装](#22-installation)
+* [3. 运行一个 Aleo 节点](#3-run-an-aleo-node)
+  * [3.1 运行一个 Aleo 客户端](#31-run-an-aleo-client)
+  * [3.2 运行一个 Aleo 证明器](#32-run-an-aleo-prover)
+* [4. 常见问题解答](#4-faqs)
+* [5. 命令行界面](#5-command-line-interface)
+* [6. 开发指南](#6-development-guide)
+  * [6.1 快速开始](#61-quick-start)
+  * [6.2 操作](#62-operations)
+* [7. 贡献者](#7-contributors)
+* [8. 许可证](#8-license)
 
-[comment]: <> (* [4. JSON-RPC Interface]&#40;#4-json-rpc-interface&#41;)
-[comment]: <> (* [5. Additional Information]&#40;#5-additional-information&#41;)
+## 1. 概述
 
-## 1. Overview
+__snarkOS__ 是为零知识应用设计的去中心化操作系统。此代码构成了 [Aleo](https://aleo.org/) 网络的核心，该网络验证交易并以公开可验证的方式存储加密状态应用。
 
-__snarkOS__ is a decentralized operating system for zero-knowledge applications.
-This code forms the backbone of [Aleo](https://aleo.org/) network,
-which verifies transactions and stores the encrypted state applications in a publicly-verifiable manner.
+## 2. 构建指南
 
-## 2. Build Guide
+### 2.1 要求
 
-### 2.1 Requirements
+以下是运行一个 Aleo 节点的**最低**要求：
+ - **操作系统**：仅支持 64 位架构，出于安全考虑，请保持系统更新
+    - 客户端：Ubuntu 22.04 (长期支持版)，macOS Ventura 或更高版本，Windows 11 或更高版本
+    - 证明器：Ubuntu 22.04 (长期支持版)，macOS Ventura 或更高版本
+    - 验证器：Ubuntu 22.04 (长期支持版)
+ - **CPU**：仅支持 64 位架构
+    - 客户端：16 核心
+    - 证明器：32 核心（推荐 64 核心）
+    - 验证器：32 核心（推荐 64 核心）
+ - **内存**：DDR4 或更好
+    - 客户端：16GB
+    - 证明器：32GB（推荐 64GB 或更多）
+    - 验证器：64GB（推荐 128GB 或更多）
+ - **存储**：PCIe Gen 3 x4, PCIe Gen 4 x2 NVME SSD 或更好
+    - 客户端：64GB 磁盘空间
+    - 证明器：128GB 磁盘空间
+    - 验证器：2TB 磁盘空间（推荐 4TB 或更多）
+ - **网络**：对称的、商用的、常开的网络连接
+    - 客户端：100Mbps 上行和下行带宽
+    - 证明器：250Mbps 上行和下行带宽
+    - 验证器：500Mbps 上行和下行带宽
+- **GPU**：
+    - 客户端：目前不需要
+    - 证明器：支持 CUDA 的 GPU（可选）
+    - 验证器：目前不需要
 
-The following are **minimum** requirements to run an Aleo node:
- - **OS**: 64-bit architectures only, latest up-to-date for security
-    - Clients: Ubuntu 22.04 (LTS), macOS Ventura or later, Windows 11 or later
-    - Provers: Ubuntu 22.04 (LTS), macOS Ventura or later
-    - Validators: Ubuntu 22.04 (LTS)
- - **CPU**: 64-bit architectures only
-    - Clients: 16-cores
-    - Provers: 32-cores (64-cores preferred)
-    - Validators: 32-cores (64-cores preferred)
- - **RAM**: DDR4 or better
-    - Clients: 16GB of memory
-    - Provers: 32GB of memory (64GB or larger preferred)
-    - Validators: 64GB of memory (128GB or larger preferred)
- - **Storage**: PCIe Gen 3 x4, PCIe Gen 4 x2 NVME SSD, or better
-    - Clients: 64GB of disk space
-    - Provers: 128GB of disk space
-    - Validators: 2TB of disk space (4TB or larger preferred)
- - **Network**: Symmetric, commercial, always-on
-    - Clients: 100Mbps of upload **and** download bandwidth
-    - Provers: 250Mbps of upload **and** download bandwidth
-    - Validators: 500Mbps of upload **and** download bandwidth
-- **GPU**:
-    - Clients: Not required at this time
-    - Provers: CUDA-enabled GPU (optional)
-    - Validators: Not required at this time
+请注意，为了运行一个**有竞争力的** Aleo 证明器，机器将需要超过这些最低要求。
 
-Please note that in order to run an Aleo Prover that is **competitive**, the machine will need more than these requirements.
+### 2.2 安装
 
-### 2.2 Installation
+在开始之前，请确保您的机器已安装 `Rust v1.66+`。[安装 Rust 的说明可以在这里找到](https://www.rust-lang.org/tools/install)。
 
-Before beginning, please ensure your machine has `Rust v1.66+` installed. Instructions to [install Rust can be found here.](https://www.rust-lang.org/tools/install)
-
-Start by cloning this GitHub repository:
+首先克隆这个 GitHub 仓库：
 ```
-git clone https://github.com/AleoHQ/snarkOS.git --depth 1
+git clone https://github.com/foxxcn/snarkOS.git --depth 1
 ```
 
-Next, move into the `snarkOS` directory:
+接下来，进入 `snarkOS` 目录：
 ```
 cd snarkOS
 ```
 
-**[For Ubuntu users]** A helper script to install dependencies is available. From the `snarkOS` directory, run:
+**[对于 Ubuntu 用户]**：有一个安装依赖的辅助脚本可用。从 `snarkOS`
+
+ 目录运行：
 ```
 ./build_ubuntu.sh
 ```
 
-Lastly, install `snarkOS`:
+最后，安装 `snarkOS`：
 ```
 cargo install --locked --path .
 ```
 
-Please ensure ports `4130/tcp` and `3030/tcp` are open on your router and OS firewall.
+请确保您的路由器和操作系统防火墙已开放 `4130/tcp` 和 `3030/tcp` 端口。
 
-## 3. Run an Aleo Node
+## 3. 运行一个 Aleo 节点
 
-## 3.1 Run an Aleo Client
+### 3.1 运行一个 Aleo 客户端
 
-Start by following the instructions in the [Build Guide](#2-build-guide).
+首先按照[构建指南](#2-build-guide)中的说明开始。
 
-Next, to start a client node, from the `snarkOS` directory, run:
+接下来，要启动一个客户端节点，从 `snarkOS` 目录运行：
 ```
 ./run-client.sh
 ```
 
-## 3.2 Run an Aleo Prover
+### 3.2 运行一个 Aleo 证明器
 
-Start by following the instructions in the [Build Guide](#2-build-guide).
+首先按照[构建指南](#2-build-guide)中的说明开始。
 
-Next, generate an Aleo account address:
+接下来，生成一个 Aleo 账户地址：
 ```
 snarkos account new
 ```
-This will output a new Aleo account in the terminal.
+这将在终端输出一个新的 Aleo 账户。
 
-**Please remember to save the account private key and view key.** The following is an example output:
+**请记住保存账户的私钥和查看密钥。** 下面是一个示例输出：
 ```
- Attention - Remember to store this account private key and view key.
+ 注意 - 记得保存这个账户的私钥和查看密钥。
 
-  Private Key  APrivateKey1xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx  <-- Save Me And Use In The Next Step
-     View Key  AViewKey1xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx  <-- Save Me
-      Address  aleo1xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx  <-- Save Me
+  私钥  APrivateKey1xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx  <-- 保存我并在下一步使用
+  查看密钥  AViewKey1xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx  <-- 保存我
+  地址  aleo1xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx  <-- 保存我
 ```
 
-Next, to start a proving node, from the `snarkOS` directory, run:
+接下来，要启动一个证明节点，从 `snarkOS` 目录运行：
 ```
 ./run-prover.sh
 ```
-When prompted, enter your Aleo private key:
+当提示时，输入您的 Aleo 私钥：
 ```
-Enter the Aleo Prover account private key:
+输入 Aleo 证明器账户的私钥：
 APrivateKey1xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 ```
 
-## 4. FAQs
+## 4. 常见问题解答
 
-### 1. My node is unable to compile.
+### 1. 我的节点无法编译。
 
-- Ensure your machine has `Rust v1.66+` installed. Instructions to [install Rust can be found here.](https://www.rust-lang.org/tools/install)
-- If large errors appear during compilation, try running `cargo clean`.
-- Ensure `snarkOS` is started using `./run-client.sh` or `./run-prover.sh`.
+- 确保您的机器已安装 `Rust v1.66+`。[安装 Rust 的说明可以在这里找到](https://www.rust-lang.org/tools/install)。
+- 如果编译过程中出现大的错误，请尝试运行 `cargo clean`。
+- 确保使用 `./run-client.sh` 或 `./run-prover.sh` 启动 `snarkOS`。
 
-### 2. My node is unable to connect to peers on the network.
+### 2. 我的节点无法连接到网络上的节点。
 
-- Ensure ports `4130/tcp` and `3030/tcp` are open on your router and OS firewall.
-- Ensure `snarkOS` is started using `./run-client.sh` or `./run-prover.sh`.
+- 确保您的路由器和操作系统防火墙已开放 `4130/tcp` 和 `3030/tcp` 端口。
+- 确保使用 `./run-client.sh` 或 `./run-prover.sh` 启动 `snarkOS`。
 
-### 3. I can't generate a new address ### 
+### 3. 我无法生成新的地址
 
-- Before running the command above (`snarkos account new`) try `source ~/.bashrc`
-- Also double-check the spelling of `snarkos`. Note the directory is `/snarkOS`, and the command is `snarkos`
+- 在运行上述命令（`snarkos account new`）之前，请尝试运行 `source ~/.bashrc`。
+- 同时仔细检查 `snarkos` 的拼写。注意目录是 `/snarkOS`，而命令是 `snarkos`。
 
-### 4. How do I use the CLI to sign and verify a message?
+### 4. 如何使用命令行界面来签名和验证消息？
 
-1. Generate an account with `snarkos account new` if you haven't already
-2. Sign a message with your private key using `snarkos account sign --raw -m "Message" --private-key-file=<PRIVATE_KEY_FILE>`
-3. Verify your signature with `snarkos account verify --raw -m "Message" -s sign1SignatureHere -a aleo1YourAccountAddress`
+1. 如果您还没有，请使用 `snarkos account new` 生成一个账户。
+2. 使用您的私钥签名消息：`snarkos account sign --raw -m "Message" --private-key-file=<PRIVATE_KEY_FILE>`
+3. 使用 `snarkos account verify --raw -m "Message" -s sign1SignatureHere -a aleo1YourAccountAddress` 验证您的签名。
 
-Note, using the `--raw` flag with the command will sign plaintext messages as bytes rather than [Aleo](https://developer.aleo.org/aleo/language#data-types-and-values) values such as `1u8` or `100field`.
+注意，使用命令中的 `--raw` 标志将以字节形式签名纯文本消息，而不是 [Aleo](https://developer.aleo.org/aleo/language#data-types-and-values) 中的值，如 `1u8` 或 `100field`。
 
+## 5. 命令行界面
 
-## 5. Command Line Interface
+要使用自定义设置运行节点，请参考 `snarkOS` CLI 中可用的选项和标志。
 
-To run a node with custom settings, refer to the options and flags available in the `snarkOS` CLI.
-
-The full list of CLI flags and options can be viewed with `snarkos --help`:
+可以通过 `snarkos --help` 查看 CLI 标志和选项的完整列表：
 ```
 snarkOS 
-The Aleo Team <hello@aleo.org>
+Aleo 团队 <hello@aleo.org>
 
-USAGE:
-    snarkos [OPTIONS] <SUBCOMMAND>
+用法：
+    snarkos [选项] <子命令>
 
-OPTIONS:
-    -h, --help                     Print help information
-    -v, --verbosity <VERBOSITY>    Specify the verbosity [options: 0, 1, 2, 3] [default: 2]
+选项：
+    -h, --help
 
-SUBCOMMANDS:
-    account    Commands to manage Aleo accounts
-    clean      Cleans the snarkOS node storage
-    help       Print this message or the help of the given subcommand(s)
-    start      Starts the snarkOS node
-    update     Update snarkOS
+                     打印帮助信息
+    -v, --verbosity <VERBOSITY>    指定详细级别 [选项：0, 1, 2, 3] [默认：2]
+
+子命令：
+    account    管理 Aleo 账户的命令
+    clean      清理 snarkOS 节点存储
+    help       打印此消息或给定子命令的帮助
+    start      启动 snarkOS 节点
+    update     更新 snarkOS
 ```
 
-The following are the options for the `snarkos start` command:
+以下是 `snarkos start` 命令的选项：
 ```
-USAGE:
-    snarkos start [OPTIONS]
+用法：
+    snarkos start [选项]
 
-OPTIONS:
-        --network <NETWORK_ID>                  Specify the network ID of this node [default: 3]
+选项：
+        --network <NETWORK_ID>                  指定此节点的网络 ID [默认：3]
         
-        --validator                             Specify this node as a validator
-        --prover                                Specify this node as a prover
-        --client                                Specify this node as a client
+        --validator                             指定此节点为验证器
+        --prover                                指定此节点为证明器
+        --client                                指定此节点为客户端
         
-        --private-key <PRIVATE_KEY>             Specify the node's account private key
-        --private-key-file <PRIVATE_KEY_FILE>   Specify the path to a file containing the node's account private key
+        --private-key <PRIVATE_KEY>             指定节点的账户私钥
+        --private-key-file <PRIVATE_KEY_FILE>   指定包含节点账户私钥的文件路径
         
-        --node <IP:PORT>                        Specify the IP address and port for the node server [default: 0.0.0.0:4130]
-        --connect <IP:PORT>                     Specify the IP address and port of a peer to connect to
+        --node <IP:PORT>                        指定节点服务器的 IP 地址和端口 [默认：0.0.0.0:4130]
+        --connect <IP:PORT>                     指定要连接的对等节点的 IP 地址和端口
  
-        --rest <REST>                           Specify the IP address and port for the REST server [default: 0.0.0.0:3030]
-        --norest                                If the flag is set, the node will not initialize the REST server
+        --rest <REST>                           指定 REST 服务器的 IP 地址和端口 [默认：0.0.0.0:3030]
+        --norest                                如果设置此标志，节点将不初始化 REST 服务器
         
-        --nodisplay                             If the flag is set, the node will not render the display
-        --verbosity <VERBOSITY_LEVEL>           Specify the verbosity of the node [options: 0, 1, 2, 3] [default: 2]
-        --logfile <PATH>                        Specify the path to the file where logs will be stored [default: /tmp/snarkos.log]
+        --nodisplay                             如果设置此标志，节点将不显示界面
+        --verbosity <VERBOSITY_LEVEL>           指定节点的详细级别 [选项：0, 1, 2, 3] [默认：2]
+        --logfile <PATH>                        指定日志文件的存储路径 [默认：/tmp/snarkos.log]
         
-        --dev <NODE_ID>                         Enables development mode, specify a unique ID for this node
+        --dev <NODE_ID>                         启用开发模式，为此节点指定一个唯一的 ID
 ```
 
-## 6. Development Guide
+## 6. 开发指南
 
-### 6.1 Quick Start
+### 6.1 快速开始
 
-In the first terminal, start the first validator by running:
+在第一个终端，通过运行以下命令启动第一个验证器：
 ```
 cargo run --release -- start --nodisplay --dev 0 --validator
 ```
-In the second terminal, start the second validator by running:
+在第二个终端，通过运行以下命令启动第二个验证器：
 ```
 cargo run --release -- start --nodisplay --dev 1 --validator
 ```
-In the third terminal, start the third validator by running:
+在第三个终端，通过运行以下命令启动第三个验证器：
 ```
 cargo run --release -- start --nodisplay --dev 2 --validator
 ```
-In the fourth terminal, start the fourth validator by running:
+在第四个终端，通过运行以下命令启动第四个验证器：
 ```
 cargo run --release -- start --nodisplay --dev 3 --validator
 ```
 
-From here, this procedure can be used to further start-up provers and clients.
+从这里开始，此程序可以用于进一步启动证明器和客户端。
 
-### 6.2 Operations
+### 6.2 操作
 
-It is important to initialize the nodes starting from `0` and incrementing by `1` for each new node.
+初始化节点时，重要的是从 `0` 开始，并为每个新节点递增 `1`。
 
-The following is a list of options to initialize a node (replace `<NODE_ID>` with a number starting from `0`):
+以下是初始化节点的选项列表（将 `<NODE_ID>` 替换为从 `0` 开始的数字）：
 ```
 cargo run --release -- start --nodisplay --dev <NODE_ID> --validator
 cargo run --release -- start --nodisplay --dev <NODE_ID> --prover
@@ -248,28 +246,30 @@ cargo run --release -- start --nodisplay --dev <NODE_ID> --client
 cargo run --release -- start --nodisplay --dev <NODE_ID>
 ```
 
-When no node type is specified, the node will default to `--client`.
+当没有指定节点类型时，节点将默认为 `--client`。
 
-### 6.3 Local Devnet
+### 6.3 本地开发网络
 
-#### 6.3.1 Install `tmux`
+#### 6.3.1 安装 `tmux`
 
-To run a local devnet with the script, start by installing `tmux`.
+要使用脚本运行本地开发网络，请先安装 `tmux`。
 
 <details><summary>macOS</summary>
 
-To install `tmux` on macOS, you can use the `Homebrew` package manager.
-If you haven't installed `Homebrew` yet, you can find instructions at [their website](https://brew.sh/).
+在 macOS 上安装 `tmux`，您可以使用 `Homebrew` 包管理器。
+如果您还没有安装 `Homebrew`，您可以在[他们的网站](https://brew.sh/)找到安装说明。
 ```bash
-# Once Homebrew is installed, run:
-brew install tmux
+# 安装 Homebrew 后，运行：
+brew install
+
+ tmux
 ```
 
 </details>
 
 <details><summary>Ubuntu</summary>
 
-On Ubuntu and other Debian-based systems, you can use the `apt` package manager:
+在 Ubuntu 和其他基于 Debian 的系统上，您可以使用 `apt` 包管理器：
 ```bash
 sudo apt update
 sudo apt install tmux
@@ -279,12 +279,12 @@ sudo apt install tmux
 
 <details><summary>Windows</summary>
 
-There are a couple of ways to use `tmux` on Windows:
+在 Windows 上使用 `tmux` 有几种方式：
 
-### Using Windows Subsystem for Linux (WSL)
+### 使用 Windows 子系统 for Linux (WSL)
 
-1. First, install [Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/install).
-2. Once WSL is set up and you have a Linux distribution installed (e.g., Ubuntu), open your WSL terminal and install `tmux` as you would on a native Linux system:
+1. 首先，安装 [Windows 子系统 for Linux](https://docs.microsoft.com/en-us/windows/wsl/install)。
+2. 一旦 WSL 设置完毕并且您安装了 Linux 发行版（例如 Ubuntu），打开您的 WSL 终端并安装 `tmux`，就像在本地 Linux 系统上一样：
 ```bash
 sudo apt update
 sudo apt install tmux
@@ -292,161 +292,65 @@ sudo apt install tmux
 
 </details>
 
-#### 6.3.2 Start a Local Devnet
+#### 6.3.2 启动本地开发网络
 
-To start a local devnet, run:
+要启动本地开发网络，请运行：
 ```
 ./devnet.sh
 ```
-Follow the instructions in the terminal to start the devnet.
+按照终端中的说明启动开发网络。
 
-#### 6.3.3 View a Local Devnet
+#### 6.3.3 查看本地开发网络
 
-#### Switch Nodes (forward)
+#### 切换节点（向前）
 
-To toggle to the next node in a local devnet, run:
+要在本地开发网络中切换到下一个节点，请运行：
 ```
 Ctrl+b n
 ```
 
-#### Switch Nodes (backwards)
+#### 切换节点（向后）
 
-To toggle to the previous node in a local devnet, run:
+要在本地开发网络中切换到上一个节点，请运行：
 ```
 Ctrl+b p
 ```
 
-#### Select a Node (choose-tree)
+#### 选择节点（choose-tree）
 
-To select a node in a local devnet, run:
+要在本地开发网络中选择一个节点，请运行：
 ```
 Ctrl+b w
 ```
 
-#### Select a Node (manually)
+#### 手动选择节点
 
-To select a node manually in a local devnet, run:
+要在本地开发网络中手动选择一个节点，请运行：
 ```
 Ctrl+b :select-window -t {NODE_ID}
 ```
 
-#### 6.3.4 Stop a Local Devnet
+#### 6.3.4 停止本地开发网络
 
-To stop a local devnet, run:
+要停止本地开发网络，请运行：
 ```
 Ctrl+b :kill-session
 ```
-Then, press `Enter`.
+然后按 `Enter`。
 
-### Clean Up
+### 清理
 
-To clean up the node storage, run:
+要清理节点存储，请运行：
 ```
 cargo run --release -- clean --dev <NODE_ID>
 ```
 
-## 7. Contributors
-Thank you for helping make snarkOS better!  
-[🧐 What do the emojis mean?](https://allcontributors.org/docs/en/emoji-key)
+## 7. 贡献者
+感谢您帮助使 snarkOS 更好！  
+[🧐 表情符号意味着什么？](https://allcontributors.org/docs/en/emoji-key)
 
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-<table>
-  <tbody>
-    <tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/howardwu"><img src="https://avatars.githubusercontent.com/u/9260812?v=4?s=100" width="100px;" alt="Howard Wu"/><br /><sub><b>Howard Wu</b></sub></a><br /><a href="https://github.com/AleoHQ/snarkOS/commits?author=howardwu" title="Code">💻</a> <a href="#maintenance-howardwu" title="Maintenance">🚧</a> <a href="#ideas-howardwu" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/AleoHQ/snarkOS/pulls?q=is%3Apr+reviewed-by%3Ahowardwu" title="Reviewed Pull Requests">👀</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/raychu86"><img src="https://avatars.githubusercontent.com/u/14917648?v=4?s=100" width="100px;" alt="Raymond Chu"/><br /><sub><b>Raymond Chu</b></sub></a><br /><a href="https://github.com/AleoHQ/snarkOS/commits?author=raychu86" title="Code">💻</a> <a href="#maintenance-raychu86" title="Maintenance">🚧</a> <a href="#ideas-raychu86" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/AleoHQ/snarkOS/pulls?q=is%3Apr+reviewed-by%3Araychu86" title="Reviewed Pull Requests">👀</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/ljedrz"><img src="https://avatars.githubusercontent.com/u/3750347?v=4?s=100" width="100px;" alt="ljedrz"/><br /><sub><b>ljedrz</b></sub></a><br /><a href="https://github.com/AleoHQ/snarkOS/commits?author=ljedrz" title="Code">💻</a> <a href="#maintenance-ljedrz" title="Maintenance">🚧</a> <a href="#ideas-ljedrz" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/AleoHQ/snarkOS/pulls?q=is%3Apr+reviewed-by%3Aljedrz" title="Reviewed Pull Requests">👀</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/niklaslong"><img src="https://avatars.githubusercontent.com/u/13221615?v=4?s=100" width="100px;" alt="Niklas Long"/><br /><sub><b>Niklas Long</b></sub></a><br /><a href="https://github.com/AleoHQ/snarkOS/commits?author=niklaslong" title="Code">💻</a> <a href="#maintenance-niklaslong" title="Maintenance">🚧</a> <a href="#ideas-niklaslong" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/AleoHQ/snarkOS/pulls?q=is%3Apr+reviewed-by%3Aniklaslong" title="Reviewed Pull Requests">👀</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/collinc97"><img src="https://avatars.githubusercontent.com/u/16715212?v=4?s=100" width="100px;" alt="Collin Chin"/><br /><sub><b>Collin Chin</b></sub></a><br /><a href="https://github.com/AleoHQ/snarkOS/commits?author=collinc97" title="Code">💻</a> <a href="https://github.com/AleoHQ/snarkOS/commits?author=collinc97" title="Documentation">📖</a> <a href="https://github.com/AleoHQ/snarkOS/pulls?q=is%3Apr+reviewed-by%3Acollinc97" title="Reviewed Pull Requests">👀</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/iamalwaysuncomfortable"><img src="https://avatars.githubusercontent.com/u/26438809?v=4?s=100" width="100px;" alt="Mike Turner"/><br /><sub><b>Mike Turner</b></sub></a><br /><a href="https://github.com/AleoHQ/snarkOS/commits?author=iamalwaysuncomfortable" title="Code">💻</a> <a href="https://github.com/AleoHQ/snarkOS/commits?author=iamalwaysuncomfortable" title="Documentation">📖</a> <a href="https://github.com/AleoHQ/snarkOS/pulls?q=is%3Apr+reviewed-by%3Aiamalwaysuncomfortable" title="Reviewed Pull Requests">👀</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://gakonst.com/"><img src="https://avatars.githubusercontent.com/u/17802178?v=4?s=100" width="100px;" alt="Georgios Konstantopoulos"/><br /><sub><b>Georgios Konstantopoulos</b></sub></a><br /><a href="https://github.com/AleoHQ/snarkOS/commits?author=gakonst" title="Code">💻</a></td>
-    </tr>
-    <tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/kobigurk"><img src="https://avatars.githubusercontent.com/u/3520024?v=4?s=100" width="100px;" alt="Kobi Gurkan"/><br /><sub><b>Kobi Gurkan</b></sub></a><br /><a href="https://github.com/AleoHQ/snarkOS/commits?author=kobigurk" title="Code">💻</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/vvp"><img src="https://avatars.githubusercontent.com/u/700877?v=4?s=100" width="100px;" alt="Vesa-Ville"/><br /><sub><b>Vesa-Ville</b></sub></a><br /><a href="https://github.com/AleoHQ/snarkOS/commits?author=vvp" title="Code">💻</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/jules"><img src="https://avatars.githubusercontent.com/u/30194392?v=4?s=100" width="100px;" alt="jules"/><br /><sub><b>jules</b></sub></a><br /><a href="https://github.com/AleoHQ/snarkOS/commits?author=jules" title="Code">💻</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/daniilr"><img src="https://avatars.githubusercontent.com/u/1212355?v=4?s=100" width="100px;" alt="Daniil"/><br /><sub><b>Daniil</b></sub></a><br /><a href="https://github.com/AleoHQ/snarkOS/commits?author=daniilr" title="Code">💻</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/akattis"><img src="https://avatars.githubusercontent.com/u/4978114?v=4?s=100" width="100px;" alt="akattis"/><br /><sub><b>akattis</b></sub></a><br /><a href="https://github.com/AleoHQ/snarkOS/commits?author=akattis" title="Code">💻</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/wcannon"><img src="https://avatars.githubusercontent.com/u/910589?v=4?s=100" width="100px;" alt="William Cannon"/><br /><sub><b>William Cannon</b></sub></a><br /><a href="https://github.com/AleoHQ/snarkOS/commits?author=wcannon" title="Code">💻</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/wcannon-aleo"><img src="https://avatars.githubusercontent.com/u/93155840?v=4?s=100" width="100px;" alt="wcannon-aleo"/><br /><sub><b>wcannon-aleo</b></sub></a><br /><a href="https://github.com/AleoHQ/snarkOS/commits?author=wcannon-aleo" title="Code">💻</a></td>
-    </tr>
-    <tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/sadroeck"><img src="https://avatars.githubusercontent.com/u/31270289?v=4?s=100" width="100px;" alt="Sam De Roeck"/><br /><sub><b>Sam De Roeck</b></sub></a><br /><a href="https://github.com/AleoHQ/snarkOS/commits?author=sadroeck" title="Code">💻</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/soft2dev"><img src="https://avatars.githubusercontent.com/u/35427355?v=4?s=100" width="100px;" alt="soft2dev"/><br /><sub><b>soft2dev</b></sub></a><br /><a href="https://github.com/AleoHQ/snarkOS/commits?author=soft2dev" title="Code">💻</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/amousa11"><img src="https://avatars.githubusercontent.com/u/12452142?v=4?s=100" width="100px;" alt="Ali Mousa"/><br /><sub><b>Ali Mousa</b></sub></a><br /><a href="https://github.com/AleoHQ/snarkOS/commits?author=amousa11" title="Code">💻</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://pyk.sh/"><img src="https://avatars.githubusercontent.com/u/2213646?v=4?s=100" width="100px;" alt="pyk"/><br /><sub><b>pyk</b></sub></a><br /><a href="https://github.com/AleoHQ/snarkOS/commits?author=pyk" title="Code">💻</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/whalelephant"><img src="https://avatars.githubusercontent.com/u/18553484?v=4?s=100" width="100px;" alt="Belsy"/><br /><sub><b>Belsy</b></sub></a><br /><a href="https://github.com/AleoHQ/snarkOS/commits?author=whalelephant" title="Code">💻</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/apruden2008"><img src="https://avatars.githubusercontent.com/u/39969542?v=4?s=100" width="100px;" alt="apruden2008"/><br /><sub><b>apruden2008</b></sub></a><br /><a href="https://github.com/AleoHQ/snarkOS/commits?author=apruden2008" title="Code">💻</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://stackoverflow.com/story/fabianoprestes"><img src="https://avatars.githubusercontent.com/u/976612?v=4?s=100" width="100px;" alt="Fabiano Prestes"/><br /><sub><b>Fabiano Prestes</b></sub></a><br /><a href="https://github.com/AleoHQ/snarkOS/commits?author=zosorock" title="Code">💻</a></td>
-    </tr>
-    <tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/HarukaMa"><img src="https://avatars.githubusercontent.com/u/861659?v=4?s=100" width="100px;" alt="Haruka"/><br /><sub><b>Haruka</b></sub></a><br /><a href="https://github.com/AleoHQ/snarkOS/commits?author=HarukaMa" title="Code">💻</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/e4m7he6g"><img src="https://avatars.githubusercontent.com/u/95574065?v=4?s=100" width="100px;" alt="e4m7he6g"/><br /><sub><b>e4m7he6g</b></sub></a><br /><a href="https://github.com/AleoHQ/snarkOS/commits?author=e4m7he6g" title="Code">💻</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/w4ll3"><img src="https://avatars.githubusercontent.com/u/8595904?v=4?s=100" width="100px;" alt="Gregório Granado Magalhães"/><br /><sub><b>Gregório Granado Magalhães</b></sub></a><br /><a href="https://github.com/AleoHQ/snarkOS/commits?author=w4ll3" title="Code">💻</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://stake.nodes.guru/"><img src="https://avatars.githubusercontent.com/u/44749897?v=4?s=100" width="100px;" alt="Evgeny Garanin"/><br /><sub><b>Evgeny Garanin</b></sub></a><br /><a href="https://github.com/AleoHQ/snarkOS/commits?author=evgeny-garanin" title="Code">💻</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/macro-ss"><img src="https://avatars.githubusercontent.com/u/59944291?v=4?s=100" width="100px;" alt="Macro Hoober"/><br /><sub><b>Macro Hoober</b></sub></a><br /><a href="https://github.com/AleoHQ/snarkOS/commits?author=macro-ss" title="Code">💻</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/code-pangolin"><img src="https://avatars.githubusercontent.com/u/89436546?v=4?s=100" width="100px;" alt="code-pangolin"/><br /><sub><b>code-pangolin</b></sub></a><br /><a href="https://github.com/AleoHQ/snarkOS/commits?author=code-pangolin" title="Code">💻</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/kaola526"><img src="https://avatars.githubusercontent.com/u/88829586?v=4?s=100" width="100px;" alt="kaola526"/><br /><sub><b>kaola526</b></sub></a><br /><a href="https://github.com/AleoHQ/snarkOS/commits?author=kaola526" title="Code">💻</a></td>
-    </tr>
-    <tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/clarenous"><img src="https://avatars.githubusercontent.com/u/18611530?v=4?s=100" width="100px;" alt="clarenous"/><br /><sub><b>clarenous</b></sub></a><br /><a href="https://github.com/AleoHQ/snarkOS/commits?author=clarenous" title="Code">💻</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/unordered-set"><img src="https://avatars.githubusercontent.com/u/78592281?v=4?s=100" width="100px;" alt="Kostyan"/><br /><sub><b>Kostyan</b></sub></a><br /><a href="https://github.com/AleoHQ/snarkOS/commits?author=unordered-set" title="Code">💻</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/austinabell"><img src="https://avatars.githubusercontent.com/u/24993711?v=4?s=100" width="100px;" alt="Austin Abell"/><br /><sub><b>Austin Abell</b></sub></a><br /><a href="https://github.com/AleoHQ/snarkOS/commits?author=austinabell" title="Code">💻</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/yelhousni"><img src="https://avatars.githubusercontent.com/u/16170090?v=4?s=100" width="100px;" alt="Youssef El Housni"/><br /><sub><b>Youssef El Housni</b></sub></a><br /><a href="https://github.com/AleoHQ/snarkOS/commits?author=yelhousni" title="Code">💻</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/ghostant-1017"><img src="https://avatars.githubusercontent.com/u/53888545?v=4?s=100" width="100px;" alt="ghostant-1017"/><br /><sub><b>ghostant-1017</b></sub></a><br /><a href="https://github.com/AleoHQ/snarkOS/commits?author=ghostant-1017" title="Code">💻</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://pencil.li/"><img src="https://avatars.githubusercontent.com/u/5947268?v=4?s=100" width="100px;" alt="Miguel Gargallo"/><br /><sub><b>Miguel Gargallo</b></sub></a><br /><a href="https://github.com/AleoHQ/snarkOS/commits?author=miguelgargallo" title="Code">💻</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/wang384670111"><img src="https://avatars.githubusercontent.com/u/78151109?v=4?s=100" width="100px;" alt="Chines Wang"/><br /><sub><b>Chines Wang</b></sub></a><br /><a href="https://github.com/AleoHQ/snarkOS/commits?author=wang384670111" title="Code">💻</a></td>
-    </tr>
-    <tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/ayushgw"><img src="https://avatars.githubusercontent.com/u/14152340?v=4?s=100" width="100px;" alt="Ayush Goswami"/><br /><sub><b>Ayush Goswami</b></sub></a><br /><a href="https://github.com/AleoHQ/snarkOS/commits?author=ayushgw" title="Code">💻</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/timsmith1337"><img src="https://avatars.githubusercontent.com/u/77958700?v=4?s=100" width="100px;" alt="Tim - o2Stake"/><br /><sub><b>Tim - o2Stake</b></sub></a><br /><a href="https://github.com/AleoHQ/snarkOS/commits?author=timsmith1337" title="Code">💻</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/liusen-adalab"><img src="https://avatars.githubusercontent.com/u/74092505?v=4?s=100" width="100px;" alt="liu-sen"/><br /><sub><b>liu-sen</b></sub></a><br /><a href="https://github.com/AleoHQ/snarkOS/commits?author=liusen-adalab" title="Code">💻</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Pa1amar"><img src="https://avatars.githubusercontent.com/u/20955327?v=4?s=100" width="100px;" alt="Palamar"/><br /><sub><b>Palamar</b></sub></a><br /><a href="https://github.com/AleoHQ/snarkOS/commits?author=Pa1amar" title="Code">💻</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/swift-mx"><img src="https://avatars.githubusercontent.com/u/80231732?v=4?s=100" width="100px;" alt="swift-mx"/><br /><sub><b>swift-mx</b></sub></a><br /><a href="https://github.com/AleoHQ/snarkOS/commits?author=swift-mx" title="Code">💻</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/dtynn"><img src="https://avatars.githubusercontent.com/u/1426666?v=4?s=100" width="100px;" alt="Caesar Wang"/><br /><sub><b>Caesar Wang</b></sub></a><br /><a href="https://github.com/AleoHQ/snarkOS/commits?author=dtynn" title="Code">💻</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/paulip1792"><img src="https://avatars.githubusercontent.com/u/52645166?v=4?s=100" width="100px;" alt="Paul IP"/><br /><sub><b>Paul IP</b></sub></a><br /><a href="https://github.com/AleoHQ/snarkOS/commits?author=paulip1792" title="Code">💻</a></td>
-    </tr>
-    <tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://philipglazman.com/"><img src="https://avatars.githubusercontent.com/u/8378656?v=4?s=100" width="100px;" alt="Philip Glazman"/><br /><sub><b>Philip Glazman</b></sub></a><br /><a href="https://github.com/AleoHQ/snarkOS/commits?author=philipglazman" title="Code">💻</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Avadon"><img src="https://avatars.githubusercontent.com/u/404177?v=4?s=100" width="100px;" alt="Ruslan Nigmatulin"/><br /><sub><b>Ruslan Nigmatulin</b></sub></a><br /><a href="https://github.com/AleoHQ/snarkOS/commits?author=Avadon" title="Code">💻</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://www.garillot.net/"><img src="https://avatars.githubusercontent.com/u/4142?v=4?s=100" width="100px;" alt="François Garillot"/><br /><sub><b>François Garillot</b></sub></a><br /><a href="https://github.com/AleoHQ/snarkOS/commits?author=huitseeker" title="Code">💻</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/aolcr"><img src="https://avatars.githubusercontent.com/u/67066732?v=4?s=100" width="100px;" alt="aolcr"/><br /><sub><b>aolcr</b></sub></a><br /><a href="https://github.com/AleoHQ/snarkOS/commits?author=aolcr" title="Code">💻</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/zvolin"><img src="https://avatars.githubusercontent.com/u/34972409?v=4?s=100" width="100px;" alt="Maciej Zwoliński"/><br /><sub><b>Maciej Zwoliński</b></sub></a><br /><a href="https://github.com/AleoHQ/snarkOS/commits?author=zvolin" title="Code">💻</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://www.linkedin.com/in/ignacio-avecilla-39386a191/"><img src="https://avatars.githubusercontent.com/u/63374472?v=4?s=100" width="100px;" alt="Nacho Avecilla"/><br /><sub><b>Nacho Avecilla</b></sub></a><br /><a href="https://github.com/AleoHQ/snarkOS/commits?author=IAvecilla" title="Code">💻</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Protryon"><img src="https://avatars.githubusercontent.com/u/8600837?v=4?s=100" width="100px;" alt="Max Bruce"/><br /><sub><b>Max Bruce</b></sub></a><br /><a href="https://github.com/AleoHQ/snarkOS/commits?author=Protryon" title="Code">💻</a></td>
-    </tr>
-    <tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/whalelephant"><img src="https://avatars.githubusercontent.com/u/18553484?v=4?s=100" width="100px;" alt="whalelephant"/><br /><sub><b>Belsy</b></sub></a><br /><a href="https://github.com/AleoHQ/snarkOS/commits?author=whalelephant" title="Code">💻</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/tranhoaison"><img src="https://avatars.githubusercontent.com/u/31094102?v=4?s=100" width="100px;" alt="tranhoaison"/><br /><sub><b>Santala</b></sub></a><br /><a href="https://github.com/AleoHQ/snarkOS/commits?author=tranhoaison" title="Code">💻</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/web3deadline"><img src="https://avatars.githubusercontent.com/u/89900222?v=4?s=100" width="100px;" alt="web3deadline"/><br /><sub><b>deadline</b></sub></a><br /><a href="https://github.com/AleoHQ/snarkOS/commits?author=web3deadline" title="Code">💻</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/CedricYanYuhui"><img src="https://avatars.githubusercontent.com/u/136431832?v=4?s=100" width="100px;" alt="CedricYanYuhui"/><br /><sub><b>CedricYanYuhui</b></sub></a><br /><a href="https://github.com/AleoHQ/snarkOS/commits?author=CedricYanYuhui" title="Code">💻</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/craigjson"><img src="https://avatars.githubusercontent.com/u/16459396?v=4?s=100" width="100px;" alt="craigjson"/><br /><sub><b>Craig Johnson</b></sub></a><br /><a href="https://github.com/AleoHQ/snarkOS/commits?author=craigjson" title="Code">💻</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/vbar"><img src="https://avatars.githubusercontent.com/u/108574?v=4?s=100" width="100px;" alt="vbar"/><br /><sub><b>Vaclav Barta</b></sub></a><br /><a href="https://github.com/AleoHQ/snarkOS/commits?author=vbar" title="Code">💻</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/features/security"><img src="https://avatars.githubusercontent.com/u/27347476?v=4?s=100" width="100px;" alt="Dependabot"/><br /><sub><b>Dependabot</b></sub></a><br /><a href="https://github.com/AleoHQ/snarkOS/commits?author=dependabot" title="Code">💻</a></td>
-    </tr>
-  </tbody>
-  <tfoot>
-    <tr>
-      <td align="center" size="13px" colspan="7">
-        <img src="https://raw.githubusercontent.com/all-contributors/all-contributors-cli/1b8533af435da9854653492b1327a23a4dbd0a10/assets/logo-small.svg">
-          <a href="https://all-contributors.js.org/docs/en/bot/usage">Add your contributions</a>
-        </img>
-      </td>
-    </tr>
-  </tfoot>
-</table>
+## 8. 许可证
 
-<!-- markdownlint-restore -->
-<!-- prettier-ignore-end -->
+我们欢迎对 `snarkOS` 的所有贡献。请参考[许可证](#7-license)条款了解贡献的具体规定。
 
-<!-- ALL-CONTRIBUTORS-LIST:END -->
-
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind are welcome!
-
-## 8. License
-
-We welcome all contributions to `snarkOS`. Please refer to the [license](#7-license) for the terms of contributions.
-
-[![License: GPL v3](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](./LICENSE.md)
+[![许可证: GPL v3](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](./LICENSE.md)
